@@ -1,0 +1,1 @@
+Atividades propostas nas aulas de Logica de Programação do processo de seleção Reset da CWI
